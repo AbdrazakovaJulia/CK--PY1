@@ -11,4 +11,5 @@ for current_cap in range(1, months + 1):
     need_money += current_cap
 
 print(round(need_money))
+
 # TODO Оформить решение
